@@ -16,7 +16,16 @@ A comprehensive suite of tests is provided to ensure proper functionality.
 ```bash
 $ go get -u github.com/HcashOrg/base58
 ```
+## Examples
 
+* [Decode Example](http://godoc.org/github.com/decred/base58#example-Decode)  
+  Demonstrates how to decode modified base58 encoded data.
+* [Encode Example](http://godoc.org/github.com/decred/base58#example-Encode)  
+  Demonstrates how to encode data using the modified base58 encoding scheme.
+* [CheckDecode Example](http://godoc.org/github.com/decred/base58#example-CheckDecode)  
+  Demonstrates how to decode Base58Check encoded data.
+* [CheckEncode Example](http://godoc.org/github.com/decred/base58#example-CheckEncode)  
+  Demonstrates how to encode data using the Base58Check encoding scheme.
 
 ## License
 
